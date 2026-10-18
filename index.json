@@ -1,0 +1,90 @@
+{
+  "kind": "oap.actor_collection",
+  "name": "OAP example actors",
+  "license": "CC-BY-4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "attribution": "Maximum Goose Laboratory",
+  "source": "https://github.com/hodgemann/oap-actors",
+  "actors": [
+    {
+      "id": "animal_pig",
+      "name": "Hambo",
+      "file": "actors/animal_pig.oap",
+      "bytes": 1440484,
+      "sha256": "21e4622134291385b32c71296ad33e045e59faac3d9fef0d143c9a2c557646dd",
+      "oap_version": "0.2.0",
+      "actor_did": "oap:ed25519:zeWRTBjOgu5KkU685MyeZ8WKp5etnzZW9f99pRcODIk#animal_pig",
+      "signer": {
+        "name": "Mondo Music Video",
+        "public_key": "zeWRTBjOgu5KkU685MyeZ8WKp5etnzZW9f99pRcODIk"
+      },
+      "reference_sha256": "f0624fc1a466369875819bffb203910fbfd865099e4ebbe7c2f8692df7e45414",
+      "rider_content": {
+        "nudity": "none",
+        "sexual_content": "none",
+        "blood_gore": "none",
+        "violence": "action"
+      }
+    },
+    {
+      "id": "henchman_1",
+      "name": "Henchman #1",
+      "file": "actors/henchman_1.oap",
+      "bytes": 6971950,
+      "sha256": "9d9fa272d5661cca59124e6959e1326f1c4f0530ee15797a1ea81a6a08e23084",
+      "oap_version": "0.2.0",
+      "actor_did": "oap:ed25519:zeWRTBjOgu5KkU685MyeZ8WKp5etnzZW9f99pRcODIk#henchman_1",
+      "signer": {
+        "name": "Mondo Music Video",
+        "public_key": "zeWRTBjOgu5KkU685MyeZ8WKp5etnzZW9f99pRcODIk"
+      },
+      "reference_sha256": "0e9ff50341a4b1cfc773e5989b7320599b764faf9fde8846b33d809fd1f2d8f1",
+      "rider_content": {
+        "nudity": "none",
+        "sexual_content": "none",
+        "blood_gore": "none",
+        "violence": "action"
+      }
+    },
+    {
+      "id": "human_female_casual_01",
+      "name": "Human Female Casual #1",
+      "file": "actors/human_female_casual_01.oap",
+      "bytes": 6201713,
+      "sha256": "1b0fb66251f12cc95896442a58947e057b804b22062a90094d0e9c7f1257b199",
+      "oap_version": "0.2.0",
+      "actor_did": "oap:ed25519:zeWRTBjOgu5KkU685MyeZ8WKp5etnzZW9f99pRcODIk#human_female_casual_01",
+      "signer": {
+        "name": "Mondo Music Video",
+        "public_key": "zeWRTBjOgu5KkU685MyeZ8WKp5etnzZW9f99pRcODIk"
+      },
+      "reference_sha256": "dc407b6a8fcb24da025538fc03147d1d6aa51acfb65e0c616f6f0f32126818c3",
+      "rider_content": {
+        "nudity": "none",
+        "sexual_content": "none",
+        "blood_gore": "none",
+        "violence": "action"
+      }
+    },
+    {
+      "id": "robobabe1",
+      "name": "Robotic Woman",
+      "file": "actors/robobabe1.oap",
+      "bytes": 7543534,
+      "sha256": "05537a13fe4c33ab3acaf3949a350556c1b29925eef93091c767df9fa79deede",
+      "oap_version": "0.2.0",
+      "actor_did": "oap:ed25519:zeWRTBjOgu5KkU685MyeZ8WKp5etnzZW9f99pRcODIk#robobabe1",
+      "signer": {
+        "name": "Mondo Music Video",
+        "public_key": "zeWRTBjOgu5KkU685MyeZ8WKp5etnzZW9f99pRcODIk"
+      },
+      "reference_sha256": "ce9123dc7740387400bfdd6bd2610d240f65b69d3b1ef9871ee223086472d5cd",
+      "rider_content": {
+        "nudity": "none",
+        "sexual_content": "none",
+        "blood_gore": "none",
+        "violence": "action"
+      }
+    }
+  ]
+}
