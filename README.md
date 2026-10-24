@@ -53,3 +53,9 @@ file and a new collection release, and old releases stay available, so pin a
 release tag or hash rather than `main`. New actors need the rights holder's
 permission, a signed package that passes `tools/verify_collection.py`, and an
 `index.json` entry. CI runs that check on every push and pull request.
+
+Collection releases are numbered as content, not as an API. Adding actors or
+fixing documentation is a patch (1.0.x). A structural change, such as a new
+`index.json` field, package format or license, is a minor release. Removing or
+replacing an actor, or a signing change that breaks verification, is a major
+release.
