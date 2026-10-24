@@ -10,9 +10,14 @@ reference sheet, a visual description and a content rider.
 | `henchman_1` | Henchman #1 | [henchman_1.oap](actors/henchman_1.oap) | 0.2.0 | same |
 | `human_female_casual_01` | Human Female Casual #1 | [human_female_casual_01.oap](actors/human_female_casual_01.oap) | 0.2.0 | same |
 | `robobabe1` | Robotic Woman | [robobabe1.oap](actors/robobabe1.oap) | 0.2.0 | same |
+| `human_male_firefighter_01` | Firefighter (male, 32) | [human_male_firefighter_01.oap](actors/human_male_firefighter_01.oap) | 0.3.0 | same |
+| `human_female_teacher_01` | Teacher (female, 42) | [human_female_teacher_01.oap](actors/human_female_teacher_01.oap) | 0.3.0 | same |
+| `human_male_construction_01` | Construction Worker (male, 28) | [human_male_construction_01.oap](actors/human_male_construction_01.oap) | 0.3.0 | same |
+| `human_female_baker_01` | Baker (female, 38) | [human_female_baker_01.oap](actors/human_female_baker_01.oap) | 0.3.0 | same |
+| `human_female_painter_01` | Oil Painter (female, 68) | [human_female_painter_01.oap](actors/human_female_painter_01.oap) | 0.3.0 | same |
 
 [`index.json`](index.json) lists each package's size, SHA-256, actor DID, signer
-key, reference-sheet hash and rider. The same four packages ship byte for byte
+key, reference-sheet hash and rider. The first four packages ship byte for byte
 as the starter cast in [Mondo Music Video](https://github.com/hodgemann/mondo-music-video).
 
 ## Verify before you import
@@ -26,11 +31,12 @@ oap verify --oap actors/animal_pig.oap --strict --require-signature
 python tools/verify_collection.py      # checks every package against index.json
 ```
 
-All four are signed by the Mondo Music Video starter-cast key
-`zeWRTBjOgu5KkU…` (full key in `index.json`). A valid signature proves that key
-signed the exact package. It does not make that key trusted, and no OAP tool
-trusts it automatically. Decide whether to accept the signer yourself, as with
-any OAP package. OAP 0.3 readers accept these 0.2 packages unchanged.
+The first four are signed by the Mondo Music Video starter-cast key
+`zeWRTBjOgu5KkU…`. The five human occupation actors are signed by a separate
+`Maximum Goose Laboratory` key `EgjvAMC109I3wKL1…` (full keys in `index.json`).
+A valid signature proves that key signed the exact package. It does not make
+that key trusted, and no OAP tool trusts it automatically. Decide whether to
+accept each signer yourself, as with any OAP package. OAP 0.3 readers accept these 0.2 packages unchanged.
 
 ## License
 

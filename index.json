@@ -47,6 +47,26 @@
       }
     },
     {
+      "id": "human_female_baker_01",
+      "name": "Baker (Latina Female, 38)",
+      "file": "actors/human_female_baker_01.oap",
+      "bytes": 4064775,
+      "sha256": "7edb67f3e78e54094026ff9a21e31b3061a6174b9f71d8ce3fa53dbb7c7fd108",
+      "oap_version": "0.3.0",
+      "actor_did": "oap:ed25519:EgjvAMC109I3wKL1oXFetarCGCQs4FtqPOw7v4smgiM#human_female_baker_01",
+      "signer": {
+        "name": "Maximum Goose Laboratory",
+        "public_key": "EgjvAMC109I3wKL1oXFetarCGCQs4FtqPOw7v4smgiM"
+      },
+      "reference_sha256": "93980e163d61a95546e85c24cd3f758d01a6757bced692b4dcc5014574ce4077",
+      "rider_content": {
+        "nudity": "none",
+        "sexual_content": "none",
+        "blood_gore": "none",
+        "violence": "action"
+      }
+    },
+    {
       "id": "human_female_casual_01",
       "name": "Human Female Casual #1",
       "file": "actors/human_female_casual_01.oap",
@@ -59,6 +79,86 @@
         "public_key": "zeWRTBjOgu5KkU685MyeZ8WKp5etnzZW9f99pRcODIk"
       },
       "reference_sha256": "dc407b6a8fcb24da025538fc03147d1d6aa51acfb65e0c616f6f0f32126818c3",
+      "rider_content": {
+        "nudity": "none",
+        "sexual_content": "none",
+        "blood_gore": "none",
+        "violence": "action"
+      }
+    },
+    {
+      "id": "human_female_painter_01",
+      "name": "Oil Painter (Asian Female, 68)",
+      "file": "actors/human_female_painter_01.oap",
+      "bytes": 5656194,
+      "sha256": "d06dc37d16c0e2d450d675d7e67e7a5fd6f509792b2eefd5193379e421209415",
+      "oap_version": "0.3.0",
+      "actor_did": "oap:ed25519:EgjvAMC109I3wKL1oXFetarCGCQs4FtqPOw7v4smgiM#human_female_painter_01",
+      "signer": {
+        "name": "Maximum Goose Laboratory",
+        "public_key": "EgjvAMC109I3wKL1oXFetarCGCQs4FtqPOw7v4smgiM"
+      },
+      "reference_sha256": "f06e7d814eae49c4a335735ca9f93309629e89959c120100e8dd81225aaa1daa",
+      "rider_content": {
+        "nudity": "none",
+        "sexual_content": "none",
+        "blood_gore": "none",
+        "violence": "action"
+      }
+    },
+    {
+      "id": "human_female_teacher_01",
+      "name": "Teacher (Female, 42)",
+      "file": "actors/human_female_teacher_01.oap",
+      "bytes": 5509684,
+      "sha256": "3b13ef2d9daaf25eacdc6ecf32a3e17df3ea0e36cdcfa2b59bb595239f24a405",
+      "oap_version": "0.3.0",
+      "actor_did": "oap:ed25519:EgjvAMC109I3wKL1oXFetarCGCQs4FtqPOw7v4smgiM#human_female_teacher_01",
+      "signer": {
+        "name": "Maximum Goose Laboratory",
+        "public_key": "EgjvAMC109I3wKL1oXFetarCGCQs4FtqPOw7v4smgiM"
+      },
+      "reference_sha256": "cd3901c2124364ffa15ff2a3a3a9811f31f339247c96fa8e4c4597e1f1cc78b2",
+      "rider_content": {
+        "nudity": "none",
+        "sexual_content": "none",
+        "blood_gore": "none",
+        "violence": "action"
+      }
+    },
+    {
+      "id": "human_male_construction_01",
+      "name": "Construction Worker (Male, 28)",
+      "file": "actors/human_male_construction_01.oap",
+      "bytes": 5613041,
+      "sha256": "0f77cd21423d975791471c8df19c2a3abdf123c2e11adbd03afbee2a4877221c",
+      "oap_version": "0.3.0",
+      "actor_did": "oap:ed25519:EgjvAMC109I3wKL1oXFetarCGCQs4FtqPOw7v4smgiM#human_male_construction_01",
+      "signer": {
+        "name": "Maximum Goose Laboratory",
+        "public_key": "EgjvAMC109I3wKL1oXFetarCGCQs4FtqPOw7v4smgiM"
+      },
+      "reference_sha256": "28f6b515d810c0f3b3b7060bdafb260386bd63eef14971fc7b84ebca7ce8a820",
+      "rider_content": {
+        "nudity": "none",
+        "sexual_content": "none",
+        "blood_gore": "none",
+        "violence": "action"
+      }
+    },
+    {
+      "id": "human_male_firefighter_01",
+      "name": "Firefighter (Male, 32)",
+      "file": "actors/human_male_firefighter_01.oap",
+      "bytes": 4581530,
+      "sha256": "ff4f40ef9ea7d9b8eafec08f2729404cf03547e51108017095be6e8401b843d4",
+      "oap_version": "0.3.0",
+      "actor_did": "oap:ed25519:EgjvAMC109I3wKL1oXFetarCGCQs4FtqPOw7v4smgiM#human_male_firefighter_01",
+      "signer": {
+        "name": "Maximum Goose Laboratory",
+        "public_key": "EgjvAMC109I3wKL1oXFetarCGCQs4FtqPOw7v4smgiM"
+      },
+      "reference_sha256": "52c6f7d3ab4054c10cbaa3faf5f3682525ca64ec82d852922316ddbb58ed9836",
       "rider_content": {
         "nudity": "none",
         "sexual_content": "none",
