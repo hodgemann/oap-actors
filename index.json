@@ -10,13 +10,13 @@
       "id": "animal_pig",
       "name": "Hambo",
       "file": "actors/animal_pig.oap",
-      "bytes": 1440484,
-      "sha256": "21e4622134291385b32c71296ad33e045e59faac3d9fef0d143c9a2c557646dd",
-      "oap_version": "0.2.0",
-      "actor_did": "oap:ed25519:zeWRTBjOgu5KkU685MyeZ8WKp5etnzZW9f99pRcODIk#animal_pig",
+      "bytes": 1440532,
+      "sha256": "166486222c5aeb8dd50dbf045dcec35dc1e9a984eed0fbe1c5bdbb8f94cfe841",
+      "oap_version": "0.5.0",
+      "actor_did": "oap:ed25519:EgjvAMC109I3wKL1oXFetarCGCQs4FtqPOw7v4smgiM#animal_pig",
       "signer": {
-        "name": "Mondo Music Video",
-        "public_key": "zeWRTBjOgu5KkU685MyeZ8WKp5etnzZW9f99pRcODIk"
+        "name": "Maximum Goose Laboratory",
+        "public_key": "EgjvAMC109I3wKL1oXFetarCGCQs4FtqPOw7v4smgiM"
       },
       "reference_sha256": "f0624fc1a466369875819bffb203910fbfd865099e4ebbe7c2f8692df7e45414",
       "rider_content": {
@@ -30,13 +30,13 @@
       "id": "henchman_1",
       "name": "Henchman #1",
       "file": "actors/henchman_1.oap",
-      "bytes": 6971950,
-      "sha256": "9d9fa272d5661cca59124e6959e1326f1c4f0530ee15797a1ea81a6a08e23084",
-      "oap_version": "0.2.0",
-      "actor_did": "oap:ed25519:zeWRTBjOgu5KkU685MyeZ8WKp5etnzZW9f99pRcODIk#henchman_1",
+      "bytes": 6971996,
+      "sha256": "e6e49ce3f7463908631c824bc472dcbf64c25e8efe33a18d6f4c4984c149a7a7",
+      "oap_version": "0.5.0",
+      "actor_did": "oap:ed25519:EgjvAMC109I3wKL1oXFetarCGCQs4FtqPOw7v4smgiM#henchman_1",
       "signer": {
-        "name": "Mondo Music Video",
-        "public_key": "zeWRTBjOgu5KkU685MyeZ8WKp5etnzZW9f99pRcODIk"
+        "name": "Maximum Goose Laboratory",
+        "public_key": "EgjvAMC109I3wKL1oXFetarCGCQs4FtqPOw7v4smgiM"
       },
       "reference_sha256": "0e9ff50341a4b1cfc773e5989b7320599b764faf9fde8846b33d809fd1f2d8f1",
       "rider_content": {
@@ -50,9 +50,9 @@
       "id": "human_female_baker_01",
       "name": "Baker (Latina Female, 38)",
       "file": "actors/human_female_baker_01.oap",
-      "bytes": 4064775,
-      "sha256": "7edb67f3e78e54094026ff9a21e31b3061a6174b9f71d8ce3fa53dbb7c7fd108",
-      "oap_version": "0.3.0",
+      "bytes": 4064815,
+      "sha256": "9babef38a8be07f31d38e47000b730f45870237cc67df09fe1b9b5ce6a64be2e",
+      "oap_version": "0.5.0",
       "actor_did": "oap:ed25519:EgjvAMC109I3wKL1oXFetarCGCQs4FtqPOw7v4smgiM#human_female_baker_01",
       "signer": {
         "name": "Maximum Goose Laboratory",
@@ -70,13 +70,13 @@
       "id": "human_female_casual_01",
       "name": "Human Female Casual #1",
       "file": "actors/human_female_casual_01.oap",
-      "bytes": 6201713,
-      "sha256": "1b0fb66251f12cc95896442a58947e057b804b22062a90094d0e9c7f1257b199",
-      "oap_version": "0.2.0",
-      "actor_did": "oap:ed25519:zeWRTBjOgu5KkU685MyeZ8WKp5etnzZW9f99pRcODIk#human_female_casual_01",
+      "bytes": 6201758,
+      "sha256": "ec66e5f4a1b55e8d7c0db1635f44a6ec421f2783cd758c11d777f5da1babd426",
+      "oap_version": "0.5.0",
+      "actor_did": "oap:ed25519:EgjvAMC109I3wKL1oXFetarCGCQs4FtqPOw7v4smgiM#human_female_casual_01",
       "signer": {
-        "name": "Mondo Music Video",
-        "public_key": "zeWRTBjOgu5KkU685MyeZ8WKp5etnzZW9f99pRcODIk"
+        "name": "Maximum Goose Laboratory",
+        "public_key": "EgjvAMC109I3wKL1oXFetarCGCQs4FtqPOw7v4smgiM"
       },
       "reference_sha256": "dc407b6a8fcb24da025538fc03147d1d6aa51acfb65e0c616f6f0f32126818c3",
       "rider_content": {
@@ -90,9 +90,9 @@
       "id": "human_female_painter_01",
       "name": "Oil Painter (Asian Female, 68)",
       "file": "actors/human_female_painter_01.oap",
-      "bytes": 5656194,
-      "sha256": "d06dc37d16c0e2d450d675d7e67e7a5fd6f509792b2eefd5193379e421209415",
-      "oap_version": "0.3.0",
+      "bytes": 5656240,
+      "sha256": "3d0ad3c2804ae05af3a83e63ff3adc0465f32267d4cc284b58bb5e129ac8f1ad",
+      "oap_version": "0.5.0",
       "actor_did": "oap:ed25519:EgjvAMC109I3wKL1oXFetarCGCQs4FtqPOw7v4smgiM#human_female_painter_01",
       "signer": {
         "name": "Maximum Goose Laboratory",
@@ -110,9 +110,9 @@
       "id": "human_female_teacher_01",
       "name": "Teacher (Female, 42)",
       "file": "actors/human_female_teacher_01.oap",
-      "bytes": 5509684,
-      "sha256": "3b13ef2d9daaf25eacdc6ecf32a3e17df3ea0e36cdcfa2b59bb595239f24a405",
-      "oap_version": "0.3.0",
+      "bytes": 5509729,
+      "sha256": "018a054decc837a1f7d6e8f379e744dbc877a4ab7e6457e17beb9dabb4760725",
+      "oap_version": "0.5.0",
       "actor_did": "oap:ed25519:EgjvAMC109I3wKL1oXFetarCGCQs4FtqPOw7v4smgiM#human_female_teacher_01",
       "signer": {
         "name": "Maximum Goose Laboratory",
@@ -130,9 +130,9 @@
       "id": "human_male_construction_01",
       "name": "Construction Worker (Male, 28)",
       "file": "actors/human_male_construction_01.oap",
-      "bytes": 5613041,
-      "sha256": "0f77cd21423d975791471c8df19c2a3abdf123c2e11adbd03afbee2a4877221c",
-      "oap_version": "0.3.0",
+      "bytes": 5613078,
+      "sha256": "ea665297d7923c156219928016d6d948bc11feb0f5c3a4e105cc918a54ff1d25",
+      "oap_version": "0.5.0",
       "actor_did": "oap:ed25519:EgjvAMC109I3wKL1oXFetarCGCQs4FtqPOw7v4smgiM#human_male_construction_01",
       "signer": {
         "name": "Maximum Goose Laboratory",
@@ -150,9 +150,9 @@
       "id": "human_male_firefighter_01",
       "name": "Firefighter (Male, 32)",
       "file": "actors/human_male_firefighter_01.oap",
-      "bytes": 4581530,
-      "sha256": "ff4f40ef9ea7d9b8eafec08f2729404cf03547e51108017095be6e8401b843d4",
-      "oap_version": "0.3.0",
+      "bytes": 4581574,
+      "sha256": "af3ac18e8e0d6d77125a56f9e203e72f6cd7fec8a13cd207edb9190d3d8ea064",
+      "oap_version": "0.5.0",
       "actor_did": "oap:ed25519:EgjvAMC109I3wKL1oXFetarCGCQs4FtqPOw7v4smgiM#human_male_firefighter_01",
       "signer": {
         "name": "Maximum Goose Laboratory",
@@ -170,13 +170,13 @@
       "id": "robobabe1",
       "name": "Robotic Woman",
       "file": "actors/robobabe1.oap",
-      "bytes": 7543534,
-      "sha256": "05537a13fe4c33ab3acaf3949a350556c1b29925eef93091c767df9fa79deede",
-      "oap_version": "0.2.0",
-      "actor_did": "oap:ed25519:zeWRTBjOgu5KkU685MyeZ8WKp5etnzZW9f99pRcODIk#robobabe1",
+      "bytes": 7543578,
+      "sha256": "73703f31ce07e62ec338582be02f649221a58658537a2916e79f5007e7cc2ee6",
+      "oap_version": "0.5.0",
+      "actor_did": "oap:ed25519:EgjvAMC109I3wKL1oXFetarCGCQs4FtqPOw7v4smgiM#robobabe1",
       "signer": {
-        "name": "Mondo Music Video",
-        "public_key": "zeWRTBjOgu5KkU685MyeZ8WKp5etnzZW9f99pRcODIk"
+        "name": "Maximum Goose Laboratory",
+        "public_key": "EgjvAMC109I3wKL1oXFetarCGCQs4FtqPOw7v4smgiM"
       },
       "reference_sha256": "ce9123dc7740387400bfdd6bd2610d240f65b69d3b1ef9871ee223086472d5cd",
       "rider_content": {

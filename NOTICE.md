@@ -21,6 +21,6 @@ Suggested attribution:
   person or animal.
 - CC BY 4.0 grants copyright permissions only. It does not grant trademark
   rights.
-- The packages' cryptographic signatures are unchanged. The signer did not sign
-  this licensing statement; the license is granted by the repository owner.
+- The signer's package signatures do not cover this licensing statement; the
+  license is granted by the repository owner.
 - No voice data, private signing keys or other studio assets are included.

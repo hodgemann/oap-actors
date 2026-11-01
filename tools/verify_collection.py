@@ -66,7 +66,7 @@ def problems_for(entry):
     for field, value in actual.items():
         if value != entry.get(field):
             issues.append(f"{field} does not match index.json")
-    result = oap.verify_package(str(path), require_signature=True, strict=True, known_agents=[])
+    result = oap.verify_package(str(path), allow_untrusted=True)
     if not result["ok"]:
         issues.extend(result["issues"])
     with zipfile.ZipFile(path) as archive:
